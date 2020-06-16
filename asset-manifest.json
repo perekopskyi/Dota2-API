@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dota2-API/static/css/main.fa360f35.chunk.css",
+    "main.js": "/Dota2-API/static/js/main.816e162d.chunk.js",
+    "main.js.map": "/Dota2-API/static/js/main.816e162d.chunk.js.map",
+    "runtime-main.js": "/Dota2-API/static/js/runtime-main.8dc3e327.js",
+    "runtime-main.js.map": "/Dota2-API/static/js/runtime-main.8dc3e327.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Dota2-API/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a6d7e3b3.chunk.js": "/Dota2-API/static/js/2.a6d7e3b3.chunk.js",
+    "static/js/2.a6d7e3b3.chunk.js.map": "/Dota2-API/static/js/2.a6d7e3b3.chunk.js.map",
+    "index.html": "/Dota2-API/index.html",
+    "precache-manifest.94b2eed30c74d126059f0d80044b8f5f.js": "/Dota2-API/precache-manifest.94b2eed30c74d126059f0d80044b8f5f.js",
+    "service-worker.js": "/Dota2-API/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Dota2-API/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fa360f35.chunk.css.map": "/Dota2-API/static/css/main.fa360f35.chunk.css.map",
+    "static/js/2.a6d7e3b3.chunk.js.LICENSE.txt": "/Dota2-API/static/js/2.a6d7e3b3.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Dota2-API/static/media/background.4ecebcfe.jpg",
+    "static/media/sidebar.scss": "/Dota2-API/static/media/check.81900640.svg",
+    "static/media/filter-icon.svg": "/Dota2-API/static/media/filter-icon.7934ca63.svg",
+    "static/media/header-logo.svg": "/Dota2-API/static/media/header-logo.88090270.svg",
+    "static/media/header.scss": "/Dota2-API/static/media/porter-sans-inline-block-webfont.933c96d6.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc3e327.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a6d7e3b3.chunk.js",
+    "static/css/main.fa360f35.chunk.css",
+    "static/js/main.816e162d.chunk.js"
+  ]
+}
