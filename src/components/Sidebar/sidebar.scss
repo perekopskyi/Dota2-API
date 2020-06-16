@@ -1,0 +1,49 @@
+.sidebar {
+  width: 220px;
+  background: rgba(255, 255, 255, 0.8);
+  min-height: 100%;
+  padding: 20px;
+
+  &__icon {
+    float: right;
+  }
+}
+
+.filter {
+  margin: 30px auto;
+  border-bottom: 1px solid #6b6b6b;
+
+  &__title {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  &__checkbox {
+    font-size: 18px;
+    input {
+      display: none;
+    }
+    label {
+      display: flex;
+      align-items: center;
+      margin-bottom: 0;
+      cursor: pointer;
+
+      &:hover {
+        color: #b32f18;
+      }
+    }
+    input:checked + label > figure {
+      svg {
+        opacity: 0;
+      }
+      background-image: url("../../assets/images/check.svg");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+    p {
+      margin-left: 10px;
+    }
+  }
+}
